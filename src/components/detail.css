@@ -1,0 +1,23 @@
+.detail-App {
+  width: 98%;
+  margin: 0 auto;
+  padding: 10px;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+.field {
+  width: 100%;
+  display: flex;
+  text-align: center;
+}
+
+.label {
+  text-align: right;
+  width: 50%;
+}
+
+.data {
+  text-align: left;
+  width: 50%;
+}
