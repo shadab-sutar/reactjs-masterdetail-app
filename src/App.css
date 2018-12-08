@@ -1,0 +1,35 @@
+.App {
+  width: 100%;
+  height: 100%;
+  margin: auto;
+}
+
+.usr-header {
+  width: 100%;
+  margin: auto;
+  height: 65px;
+}
+
+.usr-content {
+  width: 100%;
+  margin: auto;
+  height: 685px;
+}
+
+.m-div {
+  width: 20%;
+  float: left;
+  height: 685px;
+}
+
+.d-div {
+  width: 80%;
+  float: left;
+  height: 685px;
+}
+
+.usr-footer {
+  width: 100%;
+  background-color: gray;
+  height: 75px;
+}
